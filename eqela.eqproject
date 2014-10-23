@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# th8
+#
+
+projectname: th8
+vendorid: com.jason
+mainmodule: com.jason.th8
